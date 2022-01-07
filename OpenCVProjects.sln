@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenCVProjects", "OpenCVProjects\OpenCVProjects.csproj", "{BB58DE48-C70D-48AF-9CA2-CEC521C14EC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideoRecordApp", "VideoRecordApp\VideoRecordApp.csproj", "{55D1E84C-5A74-4C70-8452-8E074CC9239E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject", "TestProject\TestProject.csproj", "{CD58A222-3850-4680-9A09-C4A1E1E4A240}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApp1", "TestApp1\TestApp1.csproj", "{F1DF7699-CFFB-4319-B143-6F5A3E11C07C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB58DE48-C70D-48AF-9CA2-CEC521C14EC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB58DE48-C70D-48AF-9CA2-CEC521C14EC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB58DE48-C70D-48AF-9CA2-CEC521C14EC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB58DE48-C70D-48AF-9CA2-CEC521C14EC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55D1E84C-5A74-4C70-8452-8E074CC9239E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55D1E84C-5A74-4C70-8452-8E074CC9239E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55D1E84C-5A74-4C70-8452-8E074CC9239E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55D1E84C-5A74-4C70-8452-8E074CC9239E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD58A222-3850-4680-9A09-C4A1E1E4A240}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD58A222-3850-4680-9A09-C4A1E1E4A240}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD58A222-3850-4680-9A09-C4A1E1E4A240}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD58A222-3850-4680-9A09-C4A1E1E4A240}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1DF7699-CFFB-4319-B143-6F5A3E11C07C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1DF7699-CFFB-4319-B143-6F5A3E11C07C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1DF7699-CFFB-4319-B143-6F5A3E11C07C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1DF7699-CFFB-4319-B143-6F5A3E11C07C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B31A02DA-AAB6-41B4-BE44-7A3B02EC1253}
+	EndGlobalSection
+EndGlobal
